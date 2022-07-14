@@ -28,7 +28,6 @@
         .headline {
             padding-left: 20px;
             color: rgb(33, 2, 2);
-            background-color: aqua;
             font-weight: bold;
             width: 60%;
         }
