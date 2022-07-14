@@ -9,9 +9,10 @@
 </head>
 
 <body>
-    <style>
+    <Style type="text/css">
         body {
             display: flex;
+            width: fit-content;
             font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
         }
@@ -85,16 +86,18 @@
         }
 
         .pic2 {
+            display: flex;
             margin: 20px;
             width: fit-content;
             height: 752px;
         }
 
         .video {
+            display: flex;
             margin: 20px;
 
         }
-    </style>
+    </Style>
     <div class="container">
         <div class="headline">
             <h1>A.P.J. ABDUL KALAM</h1>
